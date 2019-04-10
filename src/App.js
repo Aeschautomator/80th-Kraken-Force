@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
       <div>
-        <iframe title-="background" src="https://ytcropper.com/cropped/to5cae5277965ac" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+        <iframe title-="background" src="https://ytcropper.com/cropped/to5cae5277965ac&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
